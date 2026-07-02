@@ -1,0 +1,3 @@
+[mcp_servers.sqlite_lab]
+command = "python"
+args = ["D:/ABSOLUTE/PATH/TO/implementation/mcp_server.py"]
